@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Srinath S",
+    "email": "srinathsvsp@gmail.com",
+    "phone": "+91 63836 39037",
+    "service": "manicure",
+    "time": "16:36",
+    "date": "2024-12-06",
+    "notes": "ntg"
+  },
+  {
+    "name": "Srinath S",
+    "email": "srinathsvsp@gmail.com",
+    "phone": "+91 63836 39035",
+    "service": "manicure",
+    "time": "5:45",
+    "date": "2024-12-06",
+    "notes": "ntg"
+  }
+]
